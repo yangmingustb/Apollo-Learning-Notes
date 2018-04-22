@@ -1,3 +1,3 @@
 # hello-world
-strange
+strange;
 practice building branch
